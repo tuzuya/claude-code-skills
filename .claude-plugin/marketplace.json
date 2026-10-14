@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tuzuya-skills",
+  "description": "Claude Code skills by tuzuya",
+  "owner": {
+    "name": "tuzuya"
+  },
+  "plugins": [
+    {
+      "name": "coding-coach",
+      "description": "A coding-mentor mode: you write the code, Claude coaches with role explanations, syntax cards, leveled logic hints, and narrow checks. Progress and syntax proficiency are saved in your repo so coaching can resume anywhere.",
+      "source": "./plugins/coding-coach",
+      "category": "learning"
+    }
+  ]
+}

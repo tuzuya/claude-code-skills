@@ -1,0 +1,9 @@
+{
+  "name": "coding-coach",
+  "description": "A coding-mentor mode: you write the code, Claude coaches with role explanations, syntax cards, leveled logic hints, and narrow checks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tuzuya"
+  },
+  "license": "MIT"
+}
